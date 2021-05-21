@@ -6,14 +6,16 @@ import TabNavigation from "./navigation/TabNavigation";
 import FoodsScreen from "./screens/FoodsScreen";
 import FoodNavigation from "./navigation/FoodNavigation";
 import FoodScreen from "./screens/FoodScreen";
+import AttendanceScreen from "./screens/AttendanceScreen";
 
 export default function App() {
   return (
-    <NavigationContainer>
-      {/* <TabNavigation /> */}
-      <FoodNavigation />
-    </NavigationContainer>
+    // <NavigationContainer>
+    //   <TabNavigation />
+    //   <FoodNavigation />
+    // </NavigationContainer>
     // <FoodScreen />
+    <AttendanceScreen />
   );
 }
 
