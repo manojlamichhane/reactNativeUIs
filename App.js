@@ -7,6 +7,7 @@ import FoodsScreen from "./screens/FoodsScreen";
 import FoodNavigation from "./navigation/FoodNavigation";
 import FoodScreen from "./screens/FoodScreen";
 import AttendanceScreen from "./screens/AttendanceScreen";
+import ClockScreen from "./screens/ClockScreen";
 
 export default function App() {
   return (
@@ -15,7 +16,8 @@ export default function App() {
     //   <FoodNavigation />
     // </NavigationContainer>
     // <FoodScreen />
-    <AttendanceScreen />
+    // <AttendanceScreen />
+    <ClockScreen title="NST" hr="5" mi="45" />
   );
 }
 

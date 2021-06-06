@@ -11,3 +11,7 @@
 ### Attendance_ui
 
 <img src= "Screenshots/Screenshot_attendance.jpg" width="250px">
+
+### Analog_Clock_ui
+
+<img src= "Screenshots/Screenshot_analog_clock.jpg" width="250px">
