@@ -15,3 +15,7 @@
 ### Analog_Clock_ui
 
 <img src= "Screenshots/Screenshot_analog_clock.jpg" width="250px">
+
+### Music_Player_ui
+
+<img src= "Screenshots/Screenshot_music_player.jpg" width="250px">
